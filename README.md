@@ -2,10 +2,10 @@
 ### Full-Stack Developer
 <div>
   <a href="https://github.com/DenisEdSilva/DenisEdSilva">
-  <img height=180 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=DenisEdSilva&show_icons=true&theme=dark"/>
+  <img height=280 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=DenisEdSilva&show_icons=true&theme=dark"/>
 </a>
 <a href="https://github.com/DenisEdSilva/convoychat">
-  <img height=180 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DenisEdSilva&layout=compact&langs_count=8&card_width=320&theme=dark"/>
+  <img height=280 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DenisEdSilva&layout=compact&langs_count=8&card_width=320&theme=dark"/>
 </a>
 </div>
 
