@@ -15,6 +15,8 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Denis-Ts" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Denis-Node" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Denis-React" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Denis-HTML5" height="30" width="40"
@@ -24,6 +26,7 @@
 <img align="center" alt="Denis-Postgres" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
+
 
 
 ##
