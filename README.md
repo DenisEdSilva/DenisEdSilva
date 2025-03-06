@@ -19,6 +19,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Denis-Prisma" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+<img align="center" alt="Denis-Redis" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 <img align="center" alt="Denis-React" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Denis-Next" height="30" width="40"
