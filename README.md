@@ -21,6 +21,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
 <img align="center" alt="Denis-React" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Denis-React" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
 <img align="center" alt="Denis-HTML5" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="Denis-CSS3" height="30" width="40"
