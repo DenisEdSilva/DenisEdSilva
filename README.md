@@ -11,29 +11,29 @@
 
 <div style="display: inline-block"><br>
   <h3 align="left">Technologies:</h3>
-  <img align="center" alt="Denis-Js" height="30" width="40"
+  <img align="center" alt="Denis-Js" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Denis-Ts" height="30" width="40"
+<img align="center" alt="Denis-Ts" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Denis-Node" height="30" width="40" 
+<img align="center" alt="Denis-Node" height="30" width="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Denis-Prisma" height="30" width="40" 
+<img align="center" alt="Denis-Prisma" height="30" width="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-<img align="center" alt="Denis-Redis" height="30" width="40"
+<img align="center" alt="Denis-Redis" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-<img align="center" alt="Denis-React" height="30" width="40"
+<img align="center" alt="Denis-React" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Denis-Next" height="30" width="40"
+<img align="center" alt="Denis-Next" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="Denis-HTML5" height="30" width="40"
+<img align="center" alt="Denis-HTML5" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img align="center" alt="Denis-CSS3" height="30" width="40"
+<img align="center" alt="Denis-CSS3" height="30" width="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Denis-Postgres" height="30" width="40" 
+<img align="center" alt="Denis-Postgres" height="30" width="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Denis-Firebase" height="30" width="40" 
+<img align="center" alt="Denis-Firebase" height="30" width="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-<img align="center" alt="Denis-Supabase" height="30" width="40" 
+<img align="center" alt="Denis-Supabase" height="30" width="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
 </div>
 
