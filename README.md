@@ -18,16 +18,16 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Frontend & Mobile
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+<p align="left">
   <img alt="React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Next.js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img alt="TailwindCSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</p>
 
 ### Backend & Database
-<div style="display: flex; gap: 10px;">
+<p align="left">
   <img alt="Node.js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="PostgreSQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
@@ -35,7 +35,7 @@
   <img alt="Redis" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img alt="Supabase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
   <img alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-</div>
+</p>
 
 ---
 
