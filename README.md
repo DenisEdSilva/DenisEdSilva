@@ -10,7 +10,6 @@
 ---
 
 ## 👨‍💻 Sobre mim
-
 * 🔭 Atualmente desenvolvendo uma plataforma SaaS multi-tenant focada em gestão de estoque e controle de inventário.
 * 💻 Minha stack principal no dia a dia envolve **React-Native, Typescript, Next.js e Supabase**.
 * 🎮 Minhas horas vagas eu passo jogando ou assistindo alguma coisa que me divirta.
@@ -18,25 +17,15 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Frontend & Mobile
-<div style="display: inline-block">
-  <img alt="React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Next.js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img alt="TailwindCSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend Stack" />
 </div>
+<br>
 
 ### Backend & Database
-<div style="display: inline-block">
-  <img alt="Node.js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="PostgreSQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="Prisma" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-  <img alt="Redis" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img alt="Supabase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
-  <img alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,prisma,redis,supabase,firebase" alt="Backend Stack" />
 </div>
-
 ---
 
 ## 📊 GitHub Stats
