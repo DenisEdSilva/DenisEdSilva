@@ -33,6 +33,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Denis-Firebase" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+<img align="center" alt="Denis-Supabase" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
 </div>
 
 
