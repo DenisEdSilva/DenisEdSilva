@@ -26,7 +26,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,prisma,redis,supabase,firebase" alt="Backend Stack" />
 </div>
----
 
 ## 📊 GitHub Stats
 
