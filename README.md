@@ -20,7 +20,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend Stack" />
 </div>
-<br>
+
 ### Backend & Database
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,prisma,redis,supabase,firebase" alt="Backend Stack" />
