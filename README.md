@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/denis-eduardo-da-silva-37a344185" target="_blank">
+  <a href="https://www.linkedin.com/in/denis-eduardo-silva-37a344185" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
